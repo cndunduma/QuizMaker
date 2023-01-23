@@ -1,0 +1,15 @@
+
+The Java compiler is a command line utility.
+If a source code file has more than one class, only one may be public.
+Secondary storage devices are non-volatile.
+Strict rules in programming are known as syntax.
+A compiler converts high-level instructions into machine code for execution.
+There is no such thing as an infinite loop
+The conditionally executed statement should be on the line after the if condition.
+JVM stands for Java Virtual Machine
+The conditionally executed statement should be on the line after the if condition.
+CPU is an ackrokym for Central Processing Unit.
+Quiz Report:
+c n
+Score: 9/10
+11 seconds
